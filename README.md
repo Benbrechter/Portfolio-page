@@ -1,2 +1,12 @@
 # Portfolio-page
-This is where all my previous work will be compiled.
+
+# Welcome to my portfolio
+
+# Built With
+HTML
+CSS
+in VS Code
+
+# Features
+Styled with CSS 
+Fully Responsive 
